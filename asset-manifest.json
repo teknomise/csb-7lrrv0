@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://teknomise.github.io/csb-7lrrv0/static/css/main.fc5c2c69.css",
+    "main.js": "https://teknomise.github.io/csb-7lrrv0/static/js/main.5301a840.js",
+    "index.html": "https://teknomise.github.io/csb-7lrrv0/index.html",
+    "main.fc5c2c69.css.map": "https://teknomise.github.io/csb-7lrrv0/static/css/main.fc5c2c69.css.map",
+    "main.5301a840.js.map": "https://teknomise.github.io/csb-7lrrv0/static/js/main.5301a840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.5301a840.js"
+  ]
+}
